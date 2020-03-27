@@ -3,7 +3,7 @@ example:
 spring:
   datasource:
     url: jdbc:mysql://localhost:3306/ApplicationGatewayDB?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC
-    username: root
+    username: john
     password: ENC(cyXSr+PHcHAw7cVM7qY9EOrjsb9qgacc)
     driverClassName: com.mysql.cj.jdbc.Driver
   jpa:
